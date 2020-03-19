@@ -4,5 +4,5 @@ import loose.oose.fis.documents.Document;
 
 
 public class Asd {
-    System.out.println("Something");
+    System.out.println("Something else");
 }
